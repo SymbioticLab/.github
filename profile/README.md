@@ -5,6 +5,7 @@ Where are these images coming from? See https://github.com/anuraghazra/github-re
 Adding new repos: python gen_repo_card_html.py SymbioticLab Justitia >> README.md
 -->
 
+<div align="center">
 <a href="https://github.com/ml-energy/zeus">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-git-master-jaywonchungs-projects.vercel.app/api/pin/?username=ml-energy&repo=zeus&theme=github_dark&hide_border=true&description_lines_count=2&show_owner=false">
@@ -47,3 +48,4 @@ Adding new repos: python gen_repo_card_html.py SymbioticLab Justitia >> README.m
     <img src="https://github-readme-stats-git-master-jaywonchungs-projects.vercel.app/api/pin/?username=SymbioticLab&repo=Justitia&theme=default_repocard&hide_border=true&description_lines_count=2&show_owner=false" alt="Justitia repo card">
   </picture>
 </a>
+</div>
