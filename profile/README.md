@@ -7,12 +7,9 @@ Adding new repos: python gen_repo_card_html.py SymbioticLab Justitia >> README.m
 
 <a href="https://github.com/ml-energy/zeus">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-git-master-jaywonchungs-projects.vercel.app
-/api/pin/?username=ml-energy&repo=zeus&theme=github_dark&hide_border=true&description_lines_count=2&show_owner=false">
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-git-master-jaywonchungs-projects.vercel.app
-/api/pin/?username=ml-energy&repo=zeus&theme=default_repocard&hide_border=true&description_lines_count=2&show_owner=false">
-    <img src="https://github-readme-stats-git-master-jaywonchungs-projects.vercel.app
-/api/pin/?username=ml-energy&repo=zeus&theme=default_repocard&hide_border=true&description_lines_count=2&show_owner=false" alt="zeus repo card">
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-git-master-jaywonchungs-projects.vercel.app/api/pin/?username=ml-energy&repo=zeus&theme=github_dark&hide_border=true&description_lines_count=2&show_owner=false">
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-git-master-jaywonchungs-projects.vercel.app/api/pin/?username=ml-energy&repo=zeus&theme=default_repocard&hide_border=true&description_lines_count=2&show_owner=false">
+    <img src="https://github-readme-stats-git-master-jaywonchungs-projects.vercel.app/api/pin/?username=ml-energy&repo=zeus&theme=default_repocard&hide_border=true&description_lines_count=2&show_owner=false" alt="zeus repo card">
   </picture>
 </a>
 <a href="https://github.com/SymbioticLab/Oobleck">
