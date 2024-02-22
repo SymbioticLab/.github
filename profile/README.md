@@ -1,4 +1,9 @@
-# SymbioticLab
+<div align="center"><h1>SymbioticLab</h1></div>
+
+<!--
+Where are these images coming from? See https://github.com/anuraghazra/github-readme-stats
+Adding new repos: python gen_repo_card_html.py SymbioticLab Justitia >> README.md
+-->
 
 <a href="https://github.com/ml-energy/zeus">
   <picture>
