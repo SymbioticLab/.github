@@ -1,8 +1,11 @@
 <div align="center"><h1>Recent projects</h1></div>
 
 <!--
-Where are these images coming from? See https://github.com/anuraghazra/github-readme-stats
-Adding new repos: python gen_repo_card_html.py SymbioticLab Justitia >> README.md
+Where are these images coming from? See https://github.com/jaywonchung/github-readme-stats
+
+Adding a new repo:
+1. Generate the HTML element for the new repo: python gen_repo_card_html.py SymbioticLab Justitia
+2. Add it inside the big `div` tag below.
 -->
 
 <div align="center">
