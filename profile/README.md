@@ -1,4 +1,4 @@
-<div align="center"><h1>SymbioticLab</h1></div>
+<div align="center"><h1>Recent projects</h1></div>
 
 <!--
 Where are these images coming from? See https://github.com/anuraghazra/github-readme-stats
